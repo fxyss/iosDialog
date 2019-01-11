@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1919dcbde1ec27b2365e9e0799ad7e0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/33068b8545834ef5435190f0b7ae525c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/010732b8ce98e728dc7a595546394698/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a7b9fb49aa3d00e58593c56757e06492/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3cbbf4d74de6c4fe0fdb84de47e034d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6e83a86b7dbed2084e90e208779a8f04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9397c76de19d822f1accaa6fe033fe02/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4233280fbadd36638fab998bea40435e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/438690b8c2d1e82feb99a10baed131e2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c3f396b089e11647a93233a174aab254/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f6bd7863c550f084070d1a5e8ab5956e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/53a63657a8c36c23f8076b2b8ba00817/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/33068b8545834ef5435190f0b7ae525c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/33068b8545834ef5435190f0b7ae525c/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.yonyou.sh.iosdialog.MainActivity
+ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1919dcbde1ec27b2365e9e0799ad7e0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1919dcbde1ec27b2365e9e0799ad7e0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/33068b8545834ef5435190f0b7ae525c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/33068b8545834ef5435190f0b7ae525c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/010732b8ce98e728dc7a595546394698/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/010732b8ce98e728dc7a595546394698/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a7b9fb49aa3d00e58593c56757e06492/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a7b9fb49aa3d00e58593c56757e06492/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3cbbf4d74de6c4fe0fdb84de47e034d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3cbbf4d74de6c4fe0fdb84de47e034d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6e83a86b7dbed2084e90e208779a8f04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6e83a86b7dbed2084e90e208779a8f04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9397c76de19d822f1accaa6fe033fe02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9397c76de19d822f1accaa6fe033fe02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4233280fbadd36638fab998bea40435e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4233280fbadd36638fab998bea40435e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/438690b8c2d1e82feb99a10baed131e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/438690b8c2d1e82feb99a10baed131e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c3f396b089e11647a93233a174aab254/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c3f396b089e11647a93233a174aab254/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f6bd7863c550f084070d1a5e8ab5956e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f6bd7863c550f084070d1a5e8ab5956e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/53a63657a8c36c23f8076b2b8ba00817/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/shaoshuai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/53a63657a8c36c23f8076b2b8ba00817/AndroidManifest.xml:20:5-44
+INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shaoshuai/project/CustomerDemo/IosDialog/app/src/main/AndroidManifest.xml
